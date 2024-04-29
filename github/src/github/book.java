@@ -18,5 +18,8 @@ public class book {
 	
 		
 	}
+	public String getAuthor() {
+		return this.Author;
+	}
 
 }
